@@ -4,11 +4,15 @@ import java.util.Random;
 import java.util.Arrays;
 
 public class Main {
+    static final int RANDOM_MAX = 50;
+    static  final int RANDOM_MIN = 10;
+    static  final  int RANGE_MAX = 20;
+    static  final int RANGE_MIN = 1;
     public static boolean isValidMatrix(int[][] matrix) {
         return matrix != null && matrix.length > 0 && matrix[0].length > 0;
     }
     public static int[][] setMatrix(int row, int col) {
-        if ((row <= 0 || col <= 0) || (row > 20 || col > 20)) {
+        if (row < RANGE_MIN || col < RANGE_MIN || row > RANGE_MAX || col > RANGE_MAX) {
             System.out.println("Invalid value of rows or cols");
             return null;
         }
@@ -64,13 +68,12 @@ public class Main {
         return matrix;
     }
     public  static int [][] randomMatrix(int row, int col) {
-        final int RANDOM_RANGE = 100;
         System.out.println("Generating matrix...");
         int[][] matrix = new int[row][col];
         Random random = new Random();
         for (int i = 0; i < row; i++) {
             for (int j = 0; j < col; j++) {
-                matrix[i][j] = random.nextInt(RANDOM_RANGE);
+                matrix[i][j] = random.nextInt(RANDOM_MAX - RANDOM_MIN + 1) + RANDOM_MIN;
             }
         }
         return matrix;
