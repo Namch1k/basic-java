@@ -1,0 +1,199 @@
+[
+  {
+    "name": "NTU 'DP'",
+    "president": {
+      "firstName": "Yan",
+      "lastName": "Sheleh",
+      "middleName": "Pavlovich",
+      "gender": "MALE"
+    },
+    "faculties": [
+      {
+        "dean": {
+          "firstName": "Yan",
+          "lastName": "Sheleh",
+          "middleName": "Pavlovich",
+          "gender": "MALE"
+        },
+        "maxDepartments": 4,
+        "departments": [
+          {
+            "maxGroups": 4,
+            "groups": [
+              {
+                "maxCapacity": 5,
+                "students": [
+                  {
+                    "studentId": 1,
+                    "firstName": "Yan",
+                    "lastName": "Sheleh",
+                    "middleName": "Pavlovich",
+                    "gender": "MALE"
+                  }
+                ]
+              },
+              {
+                "maxCapacity": 5,
+                "students": [
+                  {
+                    "studentId": 1,
+                    "firstName": "Yan",
+                    "lastName": "Sheleh",
+                    "middleName": "Pavlovich",
+                    "gender": "MALE"
+                  }
+                ]
+              },
+              {
+                "maxCapacity": 5,
+                "students": [
+                  {
+                    "studentId": 1,
+                    "firstName": "Yan",
+                    "lastName": "Sheleh",
+                    "middleName": "Pavlovich",
+                    "gender": "MALE"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "maxGroups": 4,
+            "groups": [
+              {
+                "maxCapacity": 5,
+                "students": [
+                  {
+                    "studentId": 1,
+                    "firstName": "Yan",
+                    "lastName": "Sheleh",
+                    "middleName": "Pavlovich",
+                    "gender": "MALE"
+                  }
+                ]
+              },
+              {
+                "maxCapacity": 5,
+                "students": [
+                  {
+                    "studentId": 1,
+                    "firstName": "Yan",
+                    "lastName": "Sheleh",
+                    "middleName": "Pavlovich",
+                    "gender": "MALE"
+                  }
+                ]
+              },
+              {
+                "maxCapacity": 5,
+                "students": [
+                  {
+                    "studentId": 1,
+                    "firstName": "Yan",
+                    "lastName": "Sheleh",
+                    "middleName": "Pavlovich",
+                    "gender": "MALE"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dean": {
+          "firstName": "Yan",
+          "lastName": "Sheleh",
+          "middleName": "Pavlovich",
+          "gender": "MALE"
+        },
+        "maxDepartments": 4,
+        "departments": [
+          {
+            "maxGroups": 4,
+            "groups": [
+              {
+                "maxCapacity": 5,
+                "students": [
+                  {
+                    "studentId": 1,
+                    "firstName": "Yan",
+                    "lastName": "Sheleh",
+                    "middleName": "Pavlovich",
+                    "gender": "MALE"
+                  }
+                ]
+              },
+              {
+                "maxCapacity": 5,
+                "students": [
+                  {
+                    "studentId": 1,
+                    "firstName": "Yan",
+                    "lastName": "Sheleh",
+                    "middleName": "Pavlovich",
+                    "gender": "MALE"
+                  }
+                ]
+              },
+              {
+                "maxCapacity": 5,
+                "students": [
+                  {
+                    "studentId": 1,
+                    "firstName": "Yan",
+                    "lastName": "Sheleh",
+                    "middleName": "Pavlovich",
+                    "gender": "MALE"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "maxGroups": 4,
+            "groups": [
+              {
+                "maxCapacity": 5,
+                "students": [
+                  {
+                    "studentId": 1,
+                    "firstName": "Yan",
+                    "lastName": "Sheleh",
+                    "middleName": "Pavlovich",
+                    "gender": "MALE"
+                  }
+                ]
+              },
+              {
+                "maxCapacity": 5,
+                "students": [
+                  {
+                    "studentId": 1,
+                    "firstName": "Yan",
+                    "lastName": "Sheleh",
+                    "middleName": "Pavlovich",
+                    "gender": "MALE"
+                  }
+                ]
+              },
+              {
+                "maxCapacity": 5,
+                "students": [
+                  {
+                    "studentId": 1,
+                    "firstName": "Yan",
+                    "lastName": "Sheleh",
+                    "middleName": "Pavlovich",
+                    "gender": "MALE"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
